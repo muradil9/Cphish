@@ -1,0 +1,156 @@
+IP                   : 91.185.17.172
+IP Type              : IPv4
+User OS              : iPhone
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Kurchatov, Kazakhstan, Asia
+GeoLocation(lat, lon): 50.7537579, 78.5297601
+Currency             : Kazakhstani Tenge
+IP                   : 2a03:32c0:5:79a7:ec0f:dc2:3c75:f8e6
+IP Type              : IPv6
+User OS              : iPhone
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Almaty, Kazakhstan, Asia
+GeoLocation(lat, lon): 43.2220146, 76.8512485
+Currency             : Kazakhstani Tenge
+IP                   : 91.185.17.172
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Kurchatov, Kazakhstan, Asia
+GeoLocation(lat, lon): 50.7537579, 78.5297601
+Currency             : Kazakhstani Tenge
+IP                   : 91.185.17.172
+IP Type              : IPv4
+User OS              : Windows 10
+Version              : 10.0;
+Browser              : Chrome
+Location             : Kurchatov, Kazakhstan, Asia
+GeoLocation(lat, lon): 50.7537579, 78.5297601
+Currency             : Kazakhstani Tenge
+IP                   : 91.185.17.172
+IP Type              : IPv4
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Kurchatov, Kazakhstan, Asia
+GeoLocation(lat, lon): 50.7537579, 78.5297601
+Currency             : Kazakhstani Tenge
+IP                   : 91.185.17.172
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Kurchatov, Kazakhstan, Asia
+GeoLocation(lat, lon): 50.7537579, 78.5297601
+Currency             : Kazakhstani Tenge
+IP                   : 91.185.17.172
+IP Type              : IPv4
+User OS              : iPhone
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Kurchatov, Kazakhstan, Asia
+GeoLocation(lat, lon): 50.7537579, 78.5297601
+Currency             : Kazakhstani Tenge
+IP                   : 91.185.17.172
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Kurchatov, Kazakhstan, Asia
+GeoLocation(lat, lon): 50.7537579, 78.5297601
+Currency             : Kazakhstani Tenge
+IP                   : 91.185.17.172
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Kurchatov, Kazakhstan, Asia
+GeoLocation(lat, lon): 50.7537579, 78.5297601
+Currency             : Kazakhstani Tenge
+IP                   : 2a03:32c0:30:8031:ed26:b48e:fae0:49b1
+IP Type              : IPv6
+User OS              : iPhone
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Otegen Batyr, Kazakhstan, Asia
+GeoLocation(lat, lon): 43.4259712, 77.0216405
+Currency             : Kazakhstani Tenge
+IP                   : 91.185.17.172
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Kurchatov, Kazakhstan, Asia
+GeoLocation(lat, lon): 50.7537579, 78.5297601
+Currency             : Kazakhstani Tenge
+IP                   : 176.64.21.21
+IP Type              : IPv4
+User OS              : Android
+Version              : Android
+Browser              : Handheld Browser
+Location             : Almaty, Kazakhstan, Asia
+GeoLocation(lat, lon): 43.2220146, 76.8512485
+Currency             : Kazakhstani Tenge
+IP                   : 2a0d:b201:1033:8b59:b473:32c:8501:e39a
+IP Type              : IPv6
+User OS              : iPhone
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Almaty, Kazakhstan, Asia
+GeoLocation(lat, lon): 43.32756, 76.840271
+Currency             : Kazakhstani Tenge
+IP                   : 87.250.224.28
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : +http://yandex.com/bots
+Browser              : Unknown Browser
+Location             : Moscow, Russia, Europe
+GeoLocation(lat, lon): 55.755826, 37.6173
+Currency             : Russian Ruble
+IP                   : 87.250.224.214
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : +http://yandex.com/bots
+Browser              : Unknown Browser
+Location             : Moscow, Russia, Europe
+GeoLocation(lat, lon): 55.755826, 37.6173
+Currency             : Russian Ruble
+IP                   : 91.185.17.172
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Kurchatov, Kazakhstan, Asia
+GeoLocation(lat, lon): 50.7537579, 78.5297601
+Currency             : Kazakhstani Tenge
+IP                   : 91.185.17.172
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Kurchatov, Kazakhstan, Asia
+GeoLocation(lat, lon): 50.7537579, 78.5297601
+Currency             : Kazakhstani Tenge
+IP                   : 95.57.53.220
+IP Type              : IPv4
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Almaty, Kazakhstan, Asia
+GeoLocation(lat, lon): 43.2220146, 76.8512485
+Currency             : Kazakhstani Tenge
+IP                   : 2a0d:b201:1032:2a43:6920:a15b:3f32:892a
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+IP                   : 2a0d:b201:1032:2a43:6920:a15b:3f32:892a
+IP Type              : IPv6
+User OS              : iPhone
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Shatbakty, Kazakhstan, Asia
+GeoLocation(lat, lon): 43.1701622, 74.9765998
+Currency             : Kazakhstani Tenge
